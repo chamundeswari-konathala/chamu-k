@@ -1,0 +1,4 @@
+#to calculate square root
+n=4
+num_sqrt=n**0.5#(** is a exponent operator and math modue)
+print(n,num_sqrt)#it is used to give float values
